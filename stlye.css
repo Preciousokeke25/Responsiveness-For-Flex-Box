@@ -110,29 +110,10 @@ span {
     }
 }
 
-@media (max-width:453px) {
-
-    body {
-        flex-direction: row;
-        font-size: 15px;
-
-
-    }
-}
-
 @media (max-width:915px) {
 
     body {
         flex-direction: row;
-        font-size: 15px;
-    }
-
-}
-
-@media (max-width:414px) {
-
-    body {
-        flex-direction: column;
         font-size: 15px;
     }
 
